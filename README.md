@@ -1,5 +1,6 @@
 # qt_weather
 
+本项目是跟着B站的明王老师做的, [视频链接](https://www.bilibili.com/video/BV1D841147zt/?spm_id_from=333.788&vd_source=4992bcab0402409c8ebb9b5bb4afb1b3)
 
 
 **Qt天气预报客户端** 
